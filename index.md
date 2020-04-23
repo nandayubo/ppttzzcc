@@ -5,8 +5,7 @@ You can use the [editor on GitHub](https://github.com/nandayubo/ppttzzcc/edit/ma
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+有需要订票可以添加我们的微信号：PPTTZZCC
 
 ```markdown
 Syntax highlighted code block
